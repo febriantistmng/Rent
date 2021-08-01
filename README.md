@@ -1,0 +1,2 @@
+# rent
+Vehicle Rent and Route (Rent-all) adalah aplikasi berbasis mobile yang dapat memfasilitasi pengguna untuk melakukan sewa kendaraan secara lebih mudah dengan tarif yang secara otomatis telah tersedia sesuai dengan rute perjalanan, aplikasi ini juga memberikan informasi tentang identitas kendaraan serta informasi biaya denda sebagai sanksi jika penyewa tidak mengembalikan kendaraan tepat waktu.
